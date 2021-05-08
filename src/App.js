@@ -1,10 +1,13 @@
-import React from "react";
+import React from 'react';
+import Board from './component/Board';
 
 const App = () => (
-  <React.Fragment>
-    <h1>Welcome to React Parcel Micro App!</h1>
-    <p>Hard to get more React app.</p>
-  </React.Fragment>
+  <div>
+    <h1>TIC TAC TOE</h1>
+    <Board />
+  </div>
 );
 
 export default App;
+
+// rafce for template
