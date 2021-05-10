@@ -21,7 +21,7 @@ button {
   &:hover {
     cursor: pointer;
   }
-  font-size: 1px;
+  font-size: 10px;
 }
 
 .app {
@@ -62,7 +62,7 @@ button {
       }
 
       .btn-move {
-        background-color: #fff;
+        color: #fff;
         &.active {
           font-weight: bold;
           color: $green;
