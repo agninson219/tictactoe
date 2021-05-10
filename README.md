@@ -1,3 +1,4 @@
+If you want to play the game visit https://tictacgg.surge.sh
 # Nano React App Default Javascript Template
 
 The default template project for [nano-react-app](https://github.com/adrianmcli/nano-react-app).
@@ -53,3 +54,10 @@ With Parcel's `--public-url` flag, use the following scripts for deployment:
 ```
 
 Then follow the normal procedure in GitHub Pages and select the `gh-pages` branch.
+
+
+
+
+
+
+
